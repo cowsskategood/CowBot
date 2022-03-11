@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CowBot", "CowBot.csproj", "{84872C9B-61EE-4322-889A-941B8A35116A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84872C9B-61EE-4322-889A-941B8A35116A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84872C9B-61EE-4322-889A-941B8A35116A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84872C9B-61EE-4322-889A-941B8A35116A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84872C9B-61EE-4322-889A-941B8A35116A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D514A5A-130D-4EDD-A283-56BC0AC08A49}
+	EndGlobalSection
+EndGlobal
